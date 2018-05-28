@@ -8,6 +8,7 @@ title: "Apostila R"
 # **1.0. Introdução ao R**
 
 ## **1.1. Introdução**
+## **1.2. Teste**
 
 Neste módulo inicial, iremos fazer uma breve introdução à linguagem R, que é uma linguagem de programação vetorizada, muito utilizada para análise de dados.
 

@@ -1,0 +1,12 @@
+---
+title: "Sobre nós"
+---
+
+Esta apostila de introdução ao R foi escrita por dois alunos da Universidade Federal da Paraíba, do curso de Ciências Atuariais, Igor Luís e Victor Lincoln, supervisionados pelo professor Me. Filipe Duarte, ligado ao departamento de Finanças e Contabilidade da universidade. 
+
+Qualquer dúvida, sugestão, ou críticas, podem entrar em contato pelo seguinte e-mail:
+
+actumlearningufpb@gmail.com
+
+Bons estudos.
+
